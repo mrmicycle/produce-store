@@ -1,5 +1,5 @@
 banana 1
 strawberry 2
-pear 3
+pear 9
 grapes 4
 tomato 5

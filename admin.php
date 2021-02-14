@@ -71,8 +71,5 @@
         // redirect user to store after setting up prices.
         header("Location: store.php");  
     } 
-   
-    //close file
-    fclose ($myFile);
 
 ?>
